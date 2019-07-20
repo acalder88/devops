@@ -156,7 +156,7 @@ Mappings:
     'eu-central-1':
       AMI: 'ami-0ebe657bc328d4e82'
     'us-east-1':
-      AMI: 'ami-0c6b1d09930fac512'
+      AMI: 'ami-02c954c2b37c38c2b'
     'us-east-2':
       AMI: 'ami-0ebbf2179e615c338'
     'us-west-1':

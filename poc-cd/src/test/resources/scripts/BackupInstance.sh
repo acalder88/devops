@@ -1,1 +1,0 @@
-backup instance sh script for id ${saasadmin_environment_uid} and alias ${instanceAlias}
