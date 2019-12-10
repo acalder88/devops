@@ -238,4 +238,4 @@ Resources:
 
 Outputs:
  URL:
-    Value: !Sub 'http://${LoadBalancer.DNSName}''
+    Value: !Sub 'http://${LoadBalancer.DNSName}'
