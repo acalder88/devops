@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T14:35:35.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="vpdKj46ZSuAo1STNtJr0" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T14:35:59.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ZR9xWuvlRdULiYD0JGzQ" version="14.7.3" type="github">
   <diagram id="nBilBRuDCpRkz44zYghR" name="Page-1">
     <mxGraphModel dx="2249" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qKHVpJN8aUbyW6GQUmro-9" value="DevSecOps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qKHVpJN8aUbyW6GQUmro-10" value="Cloud Architect" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="290" width="120" height="60" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKHVpJN8aUbyW6GQUmro-13" value="Security" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dv5HPEChZqI3Vf76kno4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Dv5HPEChZqI3Vf76kno4-1" target="qKHVpJN8aUbyW6GQUmro-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
