@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T20:09:10.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.5.2" etag="FTUbyqnDubsFAJqrHQNI" type="github"><diagram id="qCO6Qd8sBr7dJtVVCIHu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-09T20:25:33.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="XekFjFPZ0QXb1aFsJ8nM" version="15.5.2" type="github">
+  <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Page-1">
+    <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-1" target="OwuRMidBRD6qoYuiOkzB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-1" value="Delivery lead&lt;br&gt;gathers the challenge for the new person and the skills need" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="255" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-2" target="OwuRMidBRD6qoYuiOkzB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-2" value="Project ask for a person" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="247.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-5" target="OwuRMidBRD6qoYuiOkzB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-5" value="Delivery Lead&lt;br&gt;validates the gathered information with the Coex so is enough to select the correct person for the position" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="241.88" width="170" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-9" target="OwuRMidBRD6qoYuiOkzB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-9" value="Delivery Lead&amp;nbsp; fills the&amp;nbsp; form request for the new position" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="243.75" width="155" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-11" value="Excel open requests(Monitoreo de solicitudes abiertras - Actualización)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="235.01" width="110" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
