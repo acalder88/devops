@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T21:28:09.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YCR_P9IndDypcnbi1fX1" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T21:42:09.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GHQuf2xiYas1ac5GkqQl" version="15.5.2" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Page-1">
     <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -200,6 +200,9 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-70" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-68" target="OwuRMidBRD6qoYuiOkzB-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-68" target="OwuRMidBRD6qoYuiOkzB-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-68" value="Is the postion 100% confirmed" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="405.63" y="400" width="111.25" height="90.01" as="geometry" />
         </mxCell>
@@ -238,8 +241,50 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-83" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="645.62" y="671.25" width="48.75" height="48.75" as="geometry" />
         </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-86" target="OwuRMidBRD6qoYuiOkzB-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-86" value="Coex&lt;br&gt;Communicates with Recruiting and Marketing&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="855" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-95" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OwuRMidBRD6qoYuiOkzB-91">
+          <mxGeometry x="0.1235" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-93" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-89" target="OwuRMidBRD6qoYuiOkzB-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-89" value="Should candidates be presented?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="385" width="110.01" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.033;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-92" target="OwuRMidBRD6qoYuiOkzB-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="293" />
+              <mxPoint x="930" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-92" value="Until position is closed or present" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="250" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-96" target="OwuRMidBRD6qoYuiOkzB-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-96" value="Until people is available" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="558.75" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-101" value="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="568.12" width="65" height="61.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
