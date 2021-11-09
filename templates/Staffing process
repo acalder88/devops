@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T21:15:40.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cTeHodTpEecD-sUauo-7" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T21:18:37.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OA5XUbaExGwl87pr3fpv" version="15.5.2" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Page-1">
     <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,8 +214,28 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-73" value="Identify the right people to fill the position" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-77" target="OwuRMidBRD6qoYuiOkzB-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-77" value="Discuss with the affected project AM/DL the impact and the plan to move the person" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103.75" y="810" width="157.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.99999999999955" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-79" value="An agreement is reached of when the person can leave the project" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-82" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-83" target="OwuRMidBRD6qoYuiOkzB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-83" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="593.75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
