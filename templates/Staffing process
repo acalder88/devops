@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T21:01:06.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ZNziVDx6tXHrCPZPn6YP" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T21:15:40.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cTeHodTpEecD-sUauo-7" version="15.5.2" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Page-1">
     <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,9 +19,12 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-5" target="OwuRMidBRD6qoYuiOkzB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OwuRMidBRD6qoYuiOkzB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-5" target="OwuRMidBRD6qoYuiOkzB-15">
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-5" target="OwuRMidBRD6qoYuiOkzB-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="380" />
+              <mxPoint x="451" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-5" value="Delivery Lead&lt;br&gt;validates the gathered information with the Coex so is enough to select the correct person for the position" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -43,19 +46,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-15" value="&lt;span&gt;Coex is there someone&amp;nbsp; available with the correct skills for the position start date?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="400" width="210" height="200" as="geometry" />
+          <mxGeometry x="380" y="530" width="162.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-16" target="OwuRMidBRD6qoYuiOkzB-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-16" value="Coex Sends an email to the staffing team asking to present all the possible persons to the project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="465" width="140" height="70" as="geometry" />
+          <mxGeometry x="600" y="485" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-18" target="OwuRMidBRD6qoYuiOkzB-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-18" value="Staffing presents the persons to the contact person in the project through an email" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="465" width="120" height="70" as="geometry" />
+          <mxGeometry x="780" y="485" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-21" target="OwuRMidBRD6qoYuiOkzB-25">
           <mxGeometry relative="1" as="geometry" />
@@ -64,27 +67,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-21" value="Should the person be validated by the team?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="445" width="120" height="110" as="geometry" />
+          <mxGeometry x="950" y="465" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-39" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-25" target="OwuRMidBRD6qoYuiOkzB-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OwuRMidBRD6qoYuiOkzB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-25" target="OwuRMidBRD6qoYuiOkzB-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1425" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1425" y="365" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-25" value="Should the person by validated by the client?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="455" width="110" height="90" as="geometry" />
+          <mxGeometry x="1150" y="475" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-28" target="OwuRMidBRD6qoYuiOkzB-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-28" value="Staffing schedules a interview with the team" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-30" target="OwuRMidBRD6qoYuiOkzB-25">
           <mxGeometry relative="1" as="geometry" />
@@ -103,19 +98,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-30" value="Is the candidate approved by the team?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="600" width="120" height="100" as="geometry" />
+          <mxGeometry x="1140" y="600" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-34" target="OwuRMidBRD6qoYuiOkzB-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-34" value="Project sends the feedback to staffing and the Coex" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-38" target="OwuRMidBRD6qoYuiOkzB-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-38" target="OwuRMidBRD6qoYuiOkzB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-38" value="Staffing schedules a interview with the client" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-40" target="OwuRMidBRD6qoYuiOkzB-34">
           <mxGeometry relative="1" as="geometry">
@@ -137,19 +135,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-40" value="Is the candidate approved by the client?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="450" width="130" height="100" as="geometry" />
+          <mxGeometry x="1590" y="485" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-45" target="OwuRMidBRD6qoYuiOkzB-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-45" value="The contact person in the project tells staffing and the Coex that the candidate was approved" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="320" width="120" height="90" as="geometry" />
+          <mxGeometry x="1360" y="330" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-47" target="OwuRMidBRD6qoYuiOkzB-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-47" value="Staffing updates the person as approved in the Excel file" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-50" target="OwuRMidBRD6qoYuiOkzB-60">
           <mxGeometry relative="1" as="geometry" />
@@ -173,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-52" value="Is a Perficient USA project?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="137.5" width="140" height="115" as="geometry" />
+          <mxGeometry x="1510" y="207.5" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-54" target="OwuRMidBRD6qoYuiOkzB-50">
           <mxGeometry relative="1" as="geometry" />
@@ -192,8 +190,32 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-64" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2310" y="40" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-65" target="OwuRMidBRD6qoYuiOkzB-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-65" target="OwuRMidBRD6qoYuiOkzB-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-65" value="Is the position strategic enough to move some one from a current project?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="447.5" width="165" height="105" as="geometry" />
+          <mxGeometry x="90" y="536.25" width="185" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-70" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-68" target="OwuRMidBRD6qoYuiOkzB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-68" value="Is the postion 100% confirmed" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="409.995" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-71" value="Coex updates the excel file asking for recruiting" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-73" target="OwuRMidBRD6qoYuiOkzB-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-73" value="Identify the right people to fill the position" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-77" value="Discuss with the affected project AM/DL the impact and the plan to move the person" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="810" width="157.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
