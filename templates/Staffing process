@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T15:29:32.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="f-xfp_3SpG4sPQzeLtjG" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T15:37:11.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8k-ZTx5DXWkpEPbm2pnf" version="15.7.1" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Staffing process">
     <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -473,22 +473,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-84" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-80" target="ddR8-y_cGdUsb2eUWgK9-83">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-80" target="ddR8-y_cGdUsb2eUWgK9-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-80" value="Is the person hired and has and entry date?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1602.5" y="293.75" width="120" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-83" target="ddR8-y_cGdUsb2eUWgK9-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1835" y="400" />
-              <mxPoint x="1663" y="400" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-83" target="ddR8-y_cGdUsb2eUWgK9-80">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-83" value="Wait until the hiring process is finished" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="297.5" width="70" height="80" as="geometry" />
+          <mxGeometry x="1757.5" y="400" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-88" target="ddR8-y_cGdUsb2eUWgK9-89">
           <mxGeometry relative="1" as="geometry" />
@@ -534,6 +529,35 @@
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-106" value="Back fill is need" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-155" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.036;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-109" target="ddR8-y_cGdUsb2eUWgK9-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1869" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-109" target="ddR8-y_cGdUsb2eUWgK9-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-109" value="Is the hiring process canceled" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="293.75" width="117.5" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-113" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="308.75" width="57.5" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-115" target="ddR8-y_cGdUsb2eUWgK9-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-661" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-115" target="ddR8-y_cGdUsb2eUWgK9-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-115" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1810" width="57.5" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
