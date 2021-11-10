@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T13:57:02.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uBjlnyePDwGpeabSaA_d" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T14:14:28.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="T1bPuuf_s8Qzw_v1s8Dl" version="15.7.1" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="New Position">
-    <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-15" value="&lt;span&gt;Coex is there someone&amp;nbsp; available with the correct skills for the position start date?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380.01" y="530" width="162.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="OwuRMidBRD6qoYuiOkzB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-16" target="OwuRMidBRD6qoYuiOkzB-18" edge="1">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-16" target="OwuRMidBRD6qoYuiOkzB-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-16" value="Coex Sends an email to the staffing team asking to present all the possible persons to the project" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,28 +58,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-18" value="Staffing presents the persons to the contact person in the project through an email" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="570" width="120" height="70" as="geometry" />
+          <mxGeometry x="880" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-21" target="OwuRMidBRD6qoYuiOkzB-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OwuRMidBRD6qoYuiOkzB-29" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-21" target="OwuRMidBRD6qoYuiOkzB-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-29" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-21" target="OwuRMidBRD6qoYuiOkzB-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1059.9411764705883" y="719.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-21" value="Should the person be validated by the team?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="525" width="120" height="110" as="geometry" />
+          <mxGeometry x="1020" y="560" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-39" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-25" target="OwuRMidBRD6qoYuiOkzB-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-25" value="Should the person by validated by the client?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="536.25" width="110" height="90" as="geometry" />
+          <mxGeometry x="1200" y="566.25" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OwuRMidBRD6qoYuiOkzB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-28" target="OwuRMidBRD6qoYuiOkzB-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OwuRMidBRD6qoYuiOkzB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-28" target="OwuRMidBRD6qoYuiOkzB-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="749.9999999999998" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-28" value="Staffing schedules a interview with the team" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-30" target="OwuRMidBRD6qoYuiOkzB-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -98,13 +102,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-30" value="Is the candidate approved by the team?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1145" y="670" width="120" height="100" as="geometry" />
+          <mxGeometry x="1195" y="700" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-34" target="OwuRMidBRD6qoYuiOkzB-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-34" value="Project sends the feedback to staffing and the Coex" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1145" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1195" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-38" target="OwuRMidBRD6qoYuiOkzB-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,12 +117,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-38" value="Staffing schedules a interview with the client" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="551.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="581.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-40" target="OwuRMidBRD6qoYuiOkzB-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1550" y="830" />
+              <mxPoint x="1600" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,30 +134,30 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-40" target="OwuRMidBRD6qoYuiOkzB-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1550" y="465" />
+              <mxPoint x="1600" y="495" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-40" value="Is the candidate approved by the client?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="523.75" width="160" height="115" as="geometry" />
+          <mxGeometry x="1520" y="553.75" width="160" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="OwuRMidBRD6qoYuiOkzB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-45" target="OwuRMidBRD6qoYuiOkzB-47" edge="1">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwuRMidBRD6qoYuiOkzB-45" target="ddR8-y_cGdUsb2eUWgK9-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-45" value="The contact person in the project tells staffing and the Coex that the candidate was approved" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="420" width="120" height="90" as="geometry" />
+          <mxGeometry x="1360" y="450" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-47" target="OwuRMidBRD6qoYuiOkzB-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-47" value="Staffing updates the person as approved in the Excel file" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1447.5" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-50" target="OwuRMidBRD6qoYuiOkzB-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-50" value="&lt;span&gt;Staffing send the deployment email&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1827.5" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-55" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-52" target="OwuRMidBRD6qoYuiOkzB-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -161,7 +165,7 @@
         <mxCell id="OwuRMidBRD6qoYuiOkzB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-52" target="OwuRMidBRD6qoYuiOkzB-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1530" y="110" />
+              <mxPoint x="1657.5" y="-70" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -171,22 +175,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-52" value="Is a Perficient USA project?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="235.01" width="140" height="115" as="geometry" />
+          <mxGeometry x="1587.5" y="55.00999999999999" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OwuRMidBRD6qoYuiOkzB-54" target="OwuRMidBRD6qoYuiOkzB-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-54" value="Account Manager send the approval to deploy to the staffing team" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="262.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1827.5" y="82.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-60" target="OwuRMidBRD6qoYuiOkzB-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-60" value="Staffing&lt;br&gt;Closes the request" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1987.5" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-64" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2030" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="2157.5" y="-110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OwuRMidBRD6qoYuiOkzB-75" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OwuRMidBRD6qoYuiOkzB-65" target="OwuRMidBRD6qoYuiOkzB-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -359,7 +363,12 @@
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-28" target="ddR8-y_cGdUsb2eUWgK9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-28" target="ddR8-y_cGdUsb2eUWgK9-42">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-46" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ddR8-y_cGdUsb2eUWgK9-32">
+          <mxGeometry x="-0.2319" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-45" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-28" target="ddR8-y_cGdUsb2eUWgK9-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-28" value="Should Perf start the pre-hiring process ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -371,17 +380,119 @@
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-31" value="Coex responds to staffing with the no" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-34" value="Staffing schedules&lt;br&gt;the psychological test" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1055" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-39" target="ddR8-y_cGdUsb2eUWgK9-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-39" value="Coex&lt;br&gt;Reviews the candidate, analyze them and decides what would be the best place for the candidate in the company" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1125" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-42" value="Coex responds to staffing with the yes and an analysis&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="1150" width="120" height="60" as="geometry" />
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-49" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1305" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-56" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-44" target="ddR8-y_cGdUsb2eUWgK9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-44" value="Is the candidate a good match for an open position?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1130" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1305" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-52" value="Coex responds to staffing with the yes&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-54" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1380" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-58" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-55" target="ddR8-y_cGdUsb2eUWgK9-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-55" target="ddR8-y_cGdUsb2eUWgK9-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-55" value="Is the candidate strategic enough to start&amp;nbsp; the pre-hiring process?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1130" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-57" target="ddR8-y_cGdUsb2eUWgK9-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-57" value="Coex responds to staffing with the yes&amp;nbsp; and makes explicit to staffing that the Coex will create a plan for the person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1447.5" y="1270" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-59" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1155" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-61" target="ddR8-y_cGdUsb2eUWgK9-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-61" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1335" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-63" target="ddR8-y_cGdUsb2eUWgK9-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-63" value="Coex&lt;br&gt;Creates a plan for the person with objectives and dates" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-65" target="ddR8-y_cGdUsb2eUWgK9-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-65" value="Coex&lt;br&gt;Sends and email to staffing with the plan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-67" target="ddR8-y_cGdUsb2eUWgK9-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-67" value="Until plan is finishded" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1600" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-73" target="OwuRMidBRD6qoYuiOkzB-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-76" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ddR8-y_cGdUsb2eUWgK9-75">
+          <mxGeometry x="-0.4825" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-73" target="ddR8-y_cGdUsb2eUWgK9-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-73" value="Is the candidate and external person?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="290" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-77" target="ddR8-y_cGdUsb2eUWgK9-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-77" value="Staffing&lt;br&gt;Validates if the person is hired and has an entry date to the company" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="296.25" width="120" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-82" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-80" target="OwuRMidBRD6qoYuiOkzB-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1760" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-80" target="ddR8-y_cGdUsb2eUWgK9-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-80" value="Is the person hired?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="293.75" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-83" target="ddR8-y_cGdUsb2eUWgK9-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1920" y="401" />
+              <mxPoint x="1760" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-83" value="Wait until the hiring process is finished" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="298.75" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
