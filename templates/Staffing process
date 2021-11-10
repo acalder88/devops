@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T14:22:22.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5JWPzdVqtXNi5jpRjlsF" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T14:25:49.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="biO2lAkdEOYO29k6VxM0" version="15.7.1" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Staffing process">
     <mxGraphModel dx="2523" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -509,7 +509,7 @@
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-93" target="ddR8-y_cGdUsb2eUWgK9-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-93" value="Staffing&lt;br&gt;Sends an email to all the porject contact persons where the candidate was in the process of filling a position" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-93" value="Staffing&lt;br&gt;Sends an email to all the project contact persons where the candidate was in the process of filling a position" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-177.5" y="1670" width="257.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-97" target="ddR8-y_cGdUsb2eUWgK9-12">
@@ -517,6 +517,18 @@
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-97" value="Staffing&lt;br&gt;Updates the Excel file" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-100" target="ddR8-y_cGdUsb2eUWgK9-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-100" value="Company decides candidate&amp;nbsp; wont continue the&amp;nbsp;&lt;br&gt;&amp;nbsp;pre-hiring process&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-537.5" y="1890" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-101" target="ddR8-y_cGdUsb2eUWgK9-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-101" value="Staffing&amp;nbsp;&lt;br&gt;communicates the decisition to the candiate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-367.5" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
