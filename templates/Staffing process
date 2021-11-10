@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T14:26:41.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9TY0uQfWe-Ngjr0RVlnh" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T15:16:30.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="b36p51jeQsFSLpsCYlYg" version="15.7.1" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Staffing process">
-    <mxGraphModel dx="2523" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,10 +308,10 @@
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-6" value="Staffing schedules profiling call" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-8" target="ddR8-y_cGdUsb2eUWgK9-10">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-11" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-8" target="ddR8-y_cGdUsb2eUWgK9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-8" target="ddR8-y_cGdUsb2eUWgK9-21">
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-22" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-8" target="ddR8-y_cGdUsb2eUWgK9-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-8" value="Candidate is a match for Perf?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -357,8 +357,8 @@
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-26" target="ddR8-y_cGdUsb2eUWgK9-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ddR8-y_cGdUsb2eUWgK9-26" value="Staffing&amp;nbsp;&lt;br&gt;send and email with the candidate feedback and salary expectation to the&lt;br&gt;Coex&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1135" width="120" height="90" as="geometry" />
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-26" value="Staffing&amp;nbsp;&lt;br&gt;send an email with the candidate feedback and salary expectation to the&lt;br&gt;Coex (leads? salaries can be sensitive information)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1112.5" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ddR8-y_cGdUsb2eUWgK9-28" target="ddR8-y_cGdUsb2eUWgK9-31">
           <mxGeometry relative="1" as="geometry" />
