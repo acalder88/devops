@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T15:21:57.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ycUDau3hTKAnFocomygm" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T15:24:59.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="799V-IrfBYYORazsM2BE" version="15.7.1" type="github">
   <diagram id="qCO6Qd8sBr7dJtVVCIHu" name="Staffing process">
     <mxGraphModel dx="2035" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -529,6 +529,9 @@
         </mxCell>
         <mxCell id="ddR8-y_cGdUsb2eUWgK9-101" value="Staffing&amp;nbsp;&lt;br&gt;communicates the decisition to the candiate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-367.5" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddR8-y_cGdUsb2eUWgK9-105" value="The plan can be; Training&lt;br&gt;R&amp;amp;D&lt;br&gt;Supporting Projects as Growth or Sprout&lt;br&gt;Eventually the person will go to an open position&lt;br&gt;&lt;br&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1400" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
